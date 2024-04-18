@@ -1,0 +1,168 @@
+{
+  "creds": {
+    "noiseKey": {
+      "private": {
+        "type": "Buffer",
+        "data": "yGC6R8YJOjwbiGnVqqEZtUA43EciyNBn3QiW7OP41Eo="
+      },
+      "public": {
+        "type": "Buffer",
+        "data": "iaDRZpJ/QPkQROTSH3EXFBslYz32+pjVfBQwdO3O6Co="
+      }
+    },
+    "signedIdentityKey": {
+      "private": {
+        "type": "Buffer",
+        "data": "eAQJn8eSfSnscX7bToRenBrNZVDprGviMRE6UG00dFQ="
+      },
+      "public": {
+        "type": "Buffer",
+        "data": "nBKnC1ArbR4QfYsNbl8iNcKY8oEa+WCAf8u6MaB4qls="
+      }
+    },
+    "signedPreKey": {
+      "keyPair": {
+        "private": {
+          "type": "Buffer",
+          "data": "WNQpuwnyyVY7krD1v8DgWOB/Fedk09srhnLsdFJ+q24="
+        },
+        "public": {
+          "type": "Buffer",
+          "data": "KLlhjUjXxJdS9bVW+7e31xt5Fo/4t3tjOijbQAfsSUY="
+        }
+      },
+      "signature": {
+        "type": "Buffer",
+        "data": "23hTZQHnNBr4TJxoGswsvwF307P8UOOT+em3lp18cI/pnydp6hKJRnj7/oWzf5hNswxOdemT3U5coWel4fBPgg=="
+      },
+      "keyId": 1
+    },
+    "registrationId": 95,
+    "advSecretKey": "/zU0/L2qFyiELKmVwZrY8ZOFvr/V4nTtHUIUB5NenI8=",
+    "processedHistoryMessages": [
+      {
+        "key": {
+          "remoteJid": "918077923867@s.whatsapp.net",
+          "fromMe": true,
+          "id": "3A758FF83D2F85F4EFAE"
+        },
+        "messageTimestamp": 1688411558
+      }
+    ],
+    "nextPreKeyId": 367,
+    "firstUnuploadedPreKeyId": 367,
+    "accountSyncCounter": 0,
+    "accountSettings": {
+      "unarchiveChats": false
+    },
+    "account": {
+      "details": "CM7x/8EDEP2ciqUGGAEgACgA",
+      "accountSignatureKey": "nwhzI1rnfKKiNr6eLNG+q5YloFb1bXjKoCYqPpxK0xc=",
+      "accountSignature": "PD0fZwWZXuG648XJBQhSLtzoNQMoR7CqpRPYdXPzqA+VSEe0u0NSKK2J+/NgvgdT0TZPUrrEoPIrim3icO+AiQ==",
+      "deviceSignature": "AgRRplJEg9xynxCs48uPoiPGpr6zOpj12VInn/gK9hltM5vJsRFuBBCLpxMWYAMK1T/kliSZUfOIlA1ILxhsgg=="
+    },
+    "me": {
+      "id": "918077923867:1@s.whatsapp.net",
+      "name": "Rakesh Kumar",
+      "avatar": "https://pps.whatsapp.net/v/t61.24694-24/351539917_1006415647031680_5954383836308809643_n.jpg?stp=dst-jpg_s96x96&ccb=11-4&oh=01_AdRCV3xQLOmmkvCyr030b7_pXeJ1u9AYMvPMNFdQVLL83Q&oe=64AFB739"
+    },
+    "signalIdentities": [
+      {
+        "identifier": {
+          "name": "918077923867:1@s.whatsapp.net",
+          "deviceId": 0
+        },
+        "identifierKey": {
+          "type": "Buffer",
+          "data": "BZ8IcyNa53yioja+nizRvquWJaBW9W14yqAmKj6cStMX"
+        }
+      }
+    ],
+    "platform": "smbi",
+    "lastAccountSyncTimestamp": 1692303512,
+    "myAppStateKeyId": "AAAAAEv6"
+  },
+  "keys": {
+    "appStateVersions": {
+      "regular": null
+    },
+    "sessions": {
+      "918756592772.0": {
+        "_sessions": {
+          "BQg3gW1SqshkzPxgoPD52/apkmZ908tQFQMngTGzMSAW": {
+            "registrationId": 1071061366,
+            "currentRatchet": {
+              "ephemeralKeyPair": {
+                "pubKey": "BUQd3esTtNyAMyhIdDD5I8r1ZxuNilQpUyBvo5qYVCt5",
+                "privKey": "kMwYxYvbgNOlWZ1dus7eNbPC7LnLEuLDOhfX3IWFGlQ="
+              },
+              "lastRemoteEphemeralKey": "BWEI41KTEMkP4XnNdHDnejYqfR7QbXKr8JRHb2qbD14C",
+              "previousCounter": 0,
+              "rootKey": "aPb3RAyji6cCo/zCu8ea0l14MQ/d97YtGUcQrirKgPo="
+            },
+            "indexInfo": {
+              "baseKey": "BQg3gW1SqshkzPxgoPD52/apkmZ908tQFQMngTGzMSAW",
+              "baseKeyType": 2,
+              "closed": -1,
+              "used": 1692335093807,
+              "created": 1692335093807,
+              "remoteIdentityKey": "BVirzNQDTjZY+0tnKRpWfHMwOOY5pE+B3EqcG0nTHV94"
+            },
+            "_chains": {
+              "BWEI41KTEMkP4XnNdHDnejYqfR7QbXKr8JRHb2qbD14C": {
+                "chainKey": {
+                  "counter": 9,
+                  "key": "/jV7pcsbCMjTV0SP6B6MKv11yWTDNj2gWZaifI6MaH8="
+                },
+                "chainType": 2,
+                "messageKeys": {
+                  "0": "uIYIZ6pC4jynR0y3NghdBITED5ITkhs3hJzntCnVUzw=",
+                  "1": "Dz3uf9YRIvyJePo0G0xGXg1IUmvvzmqFCtsXc+0j1So=",
+                  "2": "eFz/7+dUJXbFVKtbg5M2MtlpdaqaSxk7CzX+ADNGY8o=",
+                  "3": "xeE2hfPFgs3F3du9NF7+E3gpveEcGuCBSEFZzradit8=",
+                  "4": "tbGbUuxsYVinbLXA7mr55aSjpHITSv+EkrtB3YosLec=",
+                  "5": "dacmlzeW7f99MITNfqT1dMoarNE5gDyZ0zmF3aGoOg8=",
+                  "6": "7b0/91yXgBSFHbqDXTEiKrrcI5qiCshM/ko/3MXEkmM=",
+                  "7": "Mfi/VGS+QmmvEghV5p5uLKjmGaNAks7lhLb+QAPikc0="
+                }
+              },
+              "BUQd3esTtNyAMyhIdDD5I8r1ZxuNilQpUyBvo5qYVCt5": {
+                "chainKey": {
+                  "counter": -1,
+                  "key": "XgJ8aTzGGg1cDtN3r82IpDZmSHcENeG6fXMekepz7rg="
+                },
+                "chainType": 1,
+                "messageKeys": {}
+              }
+            }
+          }
+        },
+        "version": "v1"
+      }
+    },
+    "senderKeys": {
+      "status@broadcast::918756592772::0": [
+        {
+          "senderKeyId": 1435158387,
+          "senderChainKey": {
+            "iteration": 13,
+            "seed": "nY5zU9oKdCwl7Xzy9T5OELnhav81K0JrvNInbiDorJs="
+          },
+          "senderSigningKey": {
+            "public": "BX9nLqOgRoqOpb1SDMSjLGBwF6YoCqtzUqW5EWuctDA7"
+          }
+        },
+        {
+          "senderKeyId": 1435158387,
+          "senderChainKey": {
+            "iteration": 13,
+            "seed": "nY5zU9oKdCwl7Xzy9T5OELnhav81K0JrvNInbiDorJs="
+          },
+          "senderSigningKey": {
+            "public": "BX9nLqOgRoqOpb1SDMSjLGBwF6YoCqtzUqW5EWuctDA7"
+          }
+        }
+      ]
+    }
+  }
+}
